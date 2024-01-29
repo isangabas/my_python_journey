@@ -8,7 +8,7 @@ for i in range(len(my_list)) :
             count += 1
             print(count)
             while count >= 1 :
-                        print(my_list)
+                print(my_list)
         else :
             my_new_list.append(j)
             continue
@@ -24,4 +24,9 @@ for element in my_list:
 
 print("Original List:", my_list)
 print("List without Repetitions:", unique_list)
-            
+
+
+
+
+
+
